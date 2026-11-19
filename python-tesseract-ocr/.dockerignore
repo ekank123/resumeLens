@@ -1,0 +1,12 @@
+**pycache**/
+_.pyc
+_.pyo
+_.pyd
+.env
+.venv
+venv/
+_.egg-info/
+.git/
+.gitignore
+\*.md
+render.yaml
