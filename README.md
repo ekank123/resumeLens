@@ -378,7 +378,7 @@ npx prisma migrate reset
 
 ## 👨‍💻 Author
 
-Created with ❤️ by Adityan
+Created by Ekank
 
 ---
 
